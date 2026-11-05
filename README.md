@@ -2,6 +2,8 @@
 
 A noughts & crosses (tic-tac-toe) game for mobile, built with Flutter. Play a friend on the same device, or take on an AI opponent at three difficulty levels.
 
+<img src="docs/screenshot.png" alt="Home screen set to 1 Player vs AI on Hard, and a game in progress against the AI" width="600">
+
 ## What I built
 - Two game modes: two players on one device, or one player against the AI.
 - A rule-based AI: Hard takes a winning move, blocks yours, sets up a fork, then takes the centre, the opposite corner or any corner, in that order. Easy plays randomly, and Medium alternates between random and Hard moves.
