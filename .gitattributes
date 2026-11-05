@@ -1,0 +1,7 @@
+# Flutter platform runners are generated, so keep them out of the language stats
+android/** linguist-generated
+ios/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+windows/** linguist-generated
+web/** linguist-generated
